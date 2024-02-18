@@ -1,9 +1,9 @@
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Login from './Components/Login';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "./pages/home";
 import { Route, Routes } from "react-router-dom";
 import Layout from "./layout";
+import Login from "./Components/login/Login";
 
 function App() {
   return (
