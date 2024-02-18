@@ -3,7 +3,7 @@ import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import imgLog from "../Images/login_img.png";
+import imgLog from "../../Images/login_img.png";
 import Table from "react-bootstrap/Table";
 
 function Login() {
